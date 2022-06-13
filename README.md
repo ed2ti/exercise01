@@ -1,7 +1,7 @@
-College: Trebas Institute
-Professor: Iyad Koteich
+**College:** Trebas Institute
+**Professor:** Iyad Koteich
 
-Problem to be solved
+**Problem to be solved**
 
 You are organizing a party for your group of students.
 
