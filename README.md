@@ -5,6 +5,7 @@
 **Problem to be solved**
 
 You are organizing a party for your group of students. 
+
 a) Check how many students are interested
 b) You are limited to accept 20 students only
 
